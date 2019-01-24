@@ -1,0 +1,39 @@
+C:\LECTURES\LECTURES contents\2016-17\CG\C#\P1\myOpenGL\myOpenGL\bin\Debug\myOpenGL.exe
+C:\LECTURES\LECTURES contents\2016-17\CG\C#\P1\myOpenGL\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\LECTURES\LECTURES contents\2016-17\CG\C#\P1\myOpenGL\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\LECTURES\LECTURES contents\2016-17\CG\C#\P1\myOpenGL\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\LECTURES\LECTURES contents\2016-17\CG\C#\P1\myOpenGL\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.Cache
+C:\LECTURES\LECTURES contents\2016-17\CG\C#\P1\myOpenGL\myOpenGL\obj\Debug\myOpenGL.exe
+C:\LECTURES\LECTURES contents\2016-17\CG\C#\P1\myOpenGL\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\8lab305\Downloads\P1\P1\myOpenGL\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\8lab305\Downloads\P1\P1\myOpenGL\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\8lab305\Downloads\P1\P1\myOpenGL\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\8lab305\Downloads\P1\P1\myOpenGL\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\8lab305\Downloads\P1\P1\myOpenGL\myOpenGL\obj\Debug\myOpenGL.csprojResolveAssemblyReference.cache
+C:\Users\8lab305\Downloads\P1\P1\myOpenGL\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\8lab305\Downloads\P1\P1\myOpenGL\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\8lab305\Downloads\P1\P1\myOpenGL\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.Cache
+C:\Users\8lab305\Downloads\P1\OpenGL Project\myOpenGL\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\8lab305\Downloads\P1\OpenGL Project\myOpenGL\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\8lab305\Downloads\P1\OpenGL Project\myOpenGL\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\8lab305\Downloads\P1\OpenGL Project\myOpenGL\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\8lab305\Downloads\P1\OpenGL Project\myOpenGL\myOpenGL\obj\Debug\myOpenGL.csprojResolveAssemblyReference.cache
+C:\Users\8lab305\Downloads\P1\OpenGL Project\myOpenGL\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\8lab305\Downloads\P1\OpenGL Project\myOpenGL\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\8lab305\Downloads\P1\OpenGL Project\myOpenGL\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.Cache
+C:\Users\Vladimir\Desktop\OpenGL Project\OpenGL Project\myOpenGL\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\Vladimir\Desktop\OpenGL Project\OpenGL Project\myOpenGL\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\Vladimir\Desktop\OpenGL Project\OpenGL Project\myOpenGL\myOpenGL\obj\Debug\myOpenGL.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Desktop\OpenGL Project\OpenGL Project\myOpenGL\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\Vladimir\Desktop\OpenGL Project\OpenGL Project\myOpenGL\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\Vladimir\Desktop\OpenGL Project\OpenGL Project\myOpenGL\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.Cache
+C:\Users\Vladimir\Desktop\OpenGL Project\OpenGL Project\myOpenGL\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\Vladimir\Desktop\OpenGL Project\OpenGL Project\myOpenGL\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\Vladimir\Desktop\OpenGL Project\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\Vladimir\Desktop\OpenGL Project\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\Vladimir\Desktop\OpenGL Project\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\Vladimir\Desktop\OpenGL Project\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\Vladimir\Desktop\OpenGL Project\myOpenGL\obj\Debug\myOpenGL.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Desktop\OpenGL Project\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\Vladimir\Desktop\OpenGL Project\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.Cache
+C:\Users\Vladimir\Desktop\OpenGL Project\myOpenGL\obj\Debug\myOpenGL.MainForm.resources

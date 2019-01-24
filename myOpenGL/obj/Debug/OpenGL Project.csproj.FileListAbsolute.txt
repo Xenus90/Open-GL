@@ -1,0 +1,8 @@
+C:\Users\Vladimir\Desktop\OpenGL Project\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\Vladimir\Desktop\OpenGL Project\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\Vladimir\Desktop\OpenGL Project\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\Vladimir\Desktop\OpenGL Project\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\Vladimir\Desktop\OpenGL Project\myOpenGL\obj\Debug\OpenGL Project.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Desktop\OpenGL Project\myOpenGL\obj\Debug\myOpenGL.MainForm.resources
+C:\Users\Vladimir\Desktop\OpenGL Project\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\Vladimir\Desktop\OpenGL Project\myOpenGL\obj\Debug\OpenGL Project.csproj.GenerateResource.Cache
